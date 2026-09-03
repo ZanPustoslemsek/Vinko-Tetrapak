@@ -8,6 +8,10 @@ Vinko implements the `Stroj` (machine/player) interface for the game
 Tetrapak, described below, and plays it automatically against other
 machines or human opponents.
 
+## Demo
+
+https://github.com/user-attachments/assets/c8bbf867-fca3-4db6-8509-8435e34b5cc6
+
 ## About the game: Tetrapak
 
 Tetrapak is a two-player tile-placement game. Players take turns placing
